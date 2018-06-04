@@ -6,3 +6,7 @@ Onion
 Tomato
 Beef
 Pork
+
+Beans 
+Pizza
+
