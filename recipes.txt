@@ -6,3 +6,8 @@ Onion
 Tomato
 Beef
 Pork
+
+Beans 
+Pizza
+
+Done changes!
